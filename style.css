@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(43, 124, 117) ;
+}
+header{
+    background-color: beige;
+    font-size: larger;
+    color: rgb(43, 124, 117);
+}
+p{
+    
+
+
+    margin-left: 35%;
+}
+.low{
+    padding-bottom: 40%;
+    margin-left: 45%;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+    
+}
